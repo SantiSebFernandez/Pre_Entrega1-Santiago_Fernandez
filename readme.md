@@ -1,3 +1,4 @@
-# Pre Entrega 1 - Santiago Fernández
-#### Este es un markdown de mi primera Pre Entrega de JavaScript.
+# Pre Entrega 2 - Santiago Fernández
+#### Este es un markdown de mi segunda Pre Entrega de JavaScript.
+###### Objetos, arrays, métodos y funciones de orden superior.
 ---
